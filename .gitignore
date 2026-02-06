@@ -1,0 +1,33 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# CS50 library
+*.sb3
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Flask
+instance/
+*.db
+
+# SQLite
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
