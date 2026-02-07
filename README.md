@@ -13,7 +13,7 @@ CS50 teaches the fundamentals of computer science and the art of programming —
 | Week | Topic | Notes | Problem Set | Status |
 |------|-------|-------|-------------|--------|
 | 0 | [Scratch](https://cs50.harvard.edu/x/2025/weeks/0/) | [Notes](Week%200%20-%20Scratch/notes.md) | [Problem Set 0](Week%200%20-%20Scratch/pset0/) | :white_large_square: |
-| 1 | [C](https://cs50.harvard.edu/x/2025/weeks/1/) | [Notes](Week%201%20-%20C/notes.md) | [Problem Set 1](Week%201%20-%20C/pset1/) | :white_large_square: |
+| 1 | [C](https://cs50.harvard.edu/x/2025/weeks/1/) | [Notes](Week%201%20-%20C/notes.md) | [Problem Set 1](Week%201%20-%20C/pset1/) | :white_check_mark: |
 | 2 | [Arrays](https://cs50.harvard.edu/x/2025/weeks/2/) | [Notes](Week%202%20-%20Arrays/notes.md) | [Problem Set 2](Week%202%20-%20Arrays/pset2/) | :white_large_square: |
 | 3 | [Algorithms](https://cs50.harvard.edu/x/2025/weeks/3/) | [Notes](Week%203%20-%20Algorithms/notes.md) | [Problem Set 3](Week%203%20-%20Algorithms/pset3/) | :white_large_square: |
 | 4 | [Memory](https://cs50.harvard.edu/x/2025/weeks/4/) | [Notes](Week%204%20-%20Memory/notes.md) | [Problem Set 4](Week%204%20-%20Memory/pset4/) | :white_large_square: |
