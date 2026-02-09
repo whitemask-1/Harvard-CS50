@@ -25,6 +25,7 @@
 
 - Most programming languages are line based, meaning that they are compiled line by line
 - CLI keywords allow you to navigate around and configure things within the computer quickly without using the mouse
+- Integer overflow occurs when you try to make an integer which is larger than the storage allocated to it, this is because computers have a finite number of bits to store numbers
 
 
 ### C Basics
